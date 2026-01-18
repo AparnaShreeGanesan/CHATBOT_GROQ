@@ -200,7 +200,7 @@ Chatbot-Using-Langchain-main/
 
 ### .env File
 ```
-GROQ_API_KEY=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
+GROQ_API_KEY=your_groq_api_key_here
 ```
 
 ### Python Environment
@@ -241,7 +241,7 @@ streamlit
 
 ### Issue: "API key not found"
 **Solution**: Check .env file has GROQ_API_KEY set
-**Fix**: `GROQ_API_KEY=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`
+**Fix**: `GROQ_API_KEY=your_groq_api_key_here`
 
 ### Issue: "Model not found" 
 **Solution**: llama-3.3-70b-versatile is correct model
